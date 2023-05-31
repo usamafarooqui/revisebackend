@@ -1,0 +1,2 @@
+humne parent referencing ki hai is ki waja se humare pass review mein tou tour aur user data araha hai magr 
+tour and user mein review ka data nahi araha is liye isko solve krnay k liye we will use virtual populate

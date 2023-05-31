@@ -1,0 +1,4 @@
+.env file ko express se connenct krnay k liye install npm i dotenv
+
+for production enviromnet make a script for
+start:prod:"NODE_ENV=production nodemon server.js"
